@@ -24,7 +24,7 @@
             <li>🌱 <b>I’m currently learning</b>: Data Engineering and Cloud Computing.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/aaftab1441/PortalFrontEnd/">PortalFrontEnd</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/aaftab1441/aaftab1441/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love, Coding(💻), and Traveling(🌍).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~01b5524bb3503ff9d1?viewMode=1&s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>

@@ -7,7 +7,7 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/aftab-ahmed-bb002827/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~01b5524bb3503ff9d1"><img src="logo=upwork" alt="UpWork" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
         <a href="https://stackoverflow.com/users/2428355/aftab-ahmed"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
     </div>
     <div align=left>

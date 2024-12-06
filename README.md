@@ -22,7 +22,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Data Engineering and Cloud Computing.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/aaftab1441/PortalFrontEnd/">PortalFrontEnd</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/aaftab1441/AuthService/">AuthService for Subscription Management System</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/aaftab1441/aaftab1441/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
